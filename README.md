@@ -16,19 +16,19 @@ Choose whether to include abstracts and figure descriptions, then click **Run ch
 
 ### Before running checks
 
-![Template settings and four sample drafts before running checks](screenshots/before-checks.png)
+![Template settings and four sample drafts before running checks](/public/screenshots/before-checks.png)
 
 ### All drafts passed
 
-![All four drafts passed with abstracts and figure descriptions enabled](screenshots/all-drafts-passed.png)
+![All four drafts passed with abstracts and figure descriptions enabled](/public/screenshots/all-drafts-passed.png)
 
 ### Missing abstracts
 
-![All four drafts need attention after turning off abstracts](screenshots/missing-abstracts.png)
+![All four drafts need attention after turning off abstracts](/public/screenshots/missing-abstracts.png)
 
 ### Missing figure descriptions
 
-![Three drafts need attention after turning off figure descriptions](screenshots/missing-figure-descriptions.png)
+![Three drafts need attention after turning off figure descriptions](/public/screenshots/missing-figure-descriptions.png)
 
 ## Tech stack
 
